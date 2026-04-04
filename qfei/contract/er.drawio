@@ -1,113 +1,910 @@
-<mxfile host="app.diagrams.net" pages="14">
+<mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="5pX_oebY6JSNz39ttpSJ">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4440" dy="2123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="KEahCrwG1jwScuNtGZSj" name="第 2 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7vUEMPeb4CubDY7QiblF" name="第 3 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="t8ynzUW_RCPCz5O-KDrj" name="第 4 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="flz0AkmHif226D6dXhCI" name="第 5 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="kY7pzBaZw_WIjnqXnWmG" name="第 6 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Qx5Ch89noQX-duE7m3B2" name="第 7 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="KX2Ks0EaYSSsAzbH03XG" name="第 8 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="gKY-BV-mVix_ic1lfQv-" name="第 9 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-77FARNx9vPN_8hNnW6A" name="第 10 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="KJ4SPl-lubDTuPyIHSBG" name="第 11 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="1aQFjRSlNhmRmPc7tpHL" name="第 12 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="N16vvg7sTDWinqa9xIPc" name="第 13 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="bHPOFol0dg59Xt7-DiBg" name="第 14 页">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="6MdqNBblkCagHRNA4f-z-138" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="270" x="370" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-80" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-83" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-84" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-86" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="2180" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_category" vertex="1">
+          <mxGeometry height="50" width="120" x="180" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="表单域ER图：" vertex="1">
+          <mxGeometry height="30" width="100" x="90" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-13" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-14" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.079;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-15" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="template" vertex="1">
+          <mxGeometry height="50" width="120" x="180" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="180" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-11" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-12" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="form_category" vertex="1">
+          <mxGeometry height="50" width="120" x="390" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-17" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="222" />
+              <mxPoint x="750" y="170" />
+              <mxPoint x="670" y="170" />
+            </Array>
+            <mxPoint x="670" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-18" connectable="0" parent="6MdqNBblkCagHRNA4f-z-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="previous-id" vertex="1">
+          <mxGeometry relative="1" x="0.1281" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="form_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="610" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-16" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="610" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_assembly" vertex="1">
+          <mxGeometry height="50" width="120" x="611" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-25" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-26" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-27" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="attribute_value" vertex="1">
+          <mxGeometry height="50" width="120" x="1030" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-19" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-21" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="form_attribute" vertex="1">
+          <mxGeometry height="50" width="120" x="820" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-28" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="attribute_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="1030" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="module" vertex="1">
+          <mxGeometry height="50" width="120" x="1030" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-24" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="单据域ER图：" vertex="1">
+          <mxGeometry height="30" width="100" x="1740" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-78" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_relation" vertex="1">
+          <mxGeometry height="50" width="120" x="2205" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="template" vertex="1">
+          <mxGeometry height="50" width="120" x="490" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-66" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="template_custom_feild" vertex="1">
+          <mxGeometry height="50" width="170" x="210" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-59" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-60" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-63" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="template_custom_feild_value" vertex="1">
+          <mxGeometry height="50" width="170" x="210" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-62" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-65" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="template_instance" vertex="1">
+          <mxGeometry height="50" width="120" x="490" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="490" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-71" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6MdqNBblkCagHRNA4f-z-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-72" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-73" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-74" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="template_attribute" vertex="1">
+          <mxGeometry height="50" width="120" x="720" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="attribute_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="1000" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="module" vertex="1">
+          <mxGeometry height="50" width="120" x="1000" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="form_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="1000" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="2205" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_assembly" vertex="1">
+          <mxGeometry height="50" width="120" x="2205" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation" vertex="1">
+          <mxGeometry height="50" width="120" x="2440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="form_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="1930" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="template" vertex="1">
+          <mxGeometry height="50" width="120" x="1930" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_category" vertex="1">
+          <mxGeometry height="50" width="120" x="2205" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-88" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_category_department" vertex="1">
+          <mxGeometry height="50" width="190" x="2420" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_sign_subject" vertex="1">
+          <mxGeometry height="50" width="160" x="1910" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-94" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-95" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-96" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_sign" vertex="1">
+          <mxGeometry height="50" width="120" x="2190" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_trading_party" vertex="1">
+          <mxGeometry height="50" width="160" x="2430" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="2190" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-102" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-103" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_import_record" vertex="1">
+          <mxGeometry height="50" width="160" x="2420" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-104" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-107" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_import_detail" vertex="1">
+          <mxGeometry height="50" width="160" x="2420" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-105" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-106" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_import_file" vertex="1">
+          <mxGeometry height="50" width="160" x="2420" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="2670" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="协商域ER图：" vertex="1">
+          <mxGeometry height="30" width="100" x="-160" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-112" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_round" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-113" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.711;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-114" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-115" connectable="0" parent="6MdqNBblkCagHRNA4f-z-114" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="previous_id" vertex="1">
+          <mxGeometry relative="1" x="-0.4828" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-117" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_confirm_process_instance" vertex="1">
+          <mxGeometry height="50" width="260" x="375" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-118" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_confirm" vertex="1">
+          <mxGeometry height="50" width="120" x="445" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-120" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-129" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-152" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_file_user" vertex="1">
+          <mxGeometry height="50" width="140" x="110" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-125" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-126" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-127" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1738" />
+              <mxPoint x="90" y="1660" />
+              <mxPoint x="170" y="1660" />
+            </Array>
+            <mxPoint x="170" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-128" connectable="0" parent="6MdqNBblkCagHRNA4f-z-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="low_version_file_id&lt;br&gt;high_version_file_id" vertex="1">
+          <mxGeometry relative="1" x="-0.3628" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_file_info" vertex="1">
+          <mxGeometry height="50" width="140" x="110" y="1725" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-130" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_review" vertex="1">
+          <mxGeometry height="50" width="140" x="110" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="-100" y="1725" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-132" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1865" />
+              <mxPoint x="80" y="1930" />
+              <mxPoint x="180" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-133" connectable="0" parent="6MdqNBblkCagHRNA4f-z-132" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="parent_id" vertex="1">
+          <mxGeometry relative="1" x="-0.4312" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-134" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-123" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-142" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="chat_group" vertex="1">
+          <mxGeometry height="50" width="120" x="120" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-137" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="chat_member" vertex="1">
+          <mxGeometry height="50" width="120" x="120" y="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-143" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="550" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-141" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_smart_operation_record" vertex="1">
+          <mxGeometry height="50" width="210" x="505" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-147" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_event" vertex="1">
+          <mxGeometry height="50" width="120" x="800" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-146" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cooperation_user" vertex="1">
+          <mxGeometry height="50" width="120" x="800" y="1725" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-148" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.007;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-151" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="coop_auto_pull_record" vertex="1">
+          <mxGeometry height="50" width="150" x="790" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-150" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-149" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-153" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.883;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="审批域ER图：" vertex="1">
+          <mxGeometry height="30" width="100" x="1640" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="2100" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_assembly" vertex="1">
+          <mxGeometry height="50" width="140" x="1920" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-160" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-161" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_approval_snapshot" vertex="1">
+          <mxGeometry height="50" width="200" x="1690" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-164" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_operate_log" vertex="1">
+          <mxGeometry height="50" width="150" x="2085" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-166" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="endorse_record" vertex="1">
+          <mxGeometry height="50" width="120" x="2345" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-168" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-172" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_form_definition" vertex="1">
+          <mxGeometry height="50" width="150" x="2085" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-170" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-169" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_approval_instance_snapshot" vertex="1">
+          <mxGeometry height="50" width="220" x="1700" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="form_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="2345" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-173" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="review" vertex="1">
+          <mxGeometry height="50" width="120" x="2290" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-174" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-173" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.947;entryY=0.937;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="comment" vertex="1">
+          <mxGeometry height="50" width="120" x="2290" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-177" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="reply" vertex="1">
+          <mxGeometry height="50" width="120" x="2480" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_modification_async_task" vertex="1">
+          <mxGeometry height="50" width="220" x="2345" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-179" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="履约域ER图：" vertex="1">
+          <mxGeometry height="30" width="100" x="3010" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="3540" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-184" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-182" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_payment_plan" vertex="1">
+          <mxGeometry height="50" width="160" x="3250" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-185" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-183" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_collection_plan" vertex="1">
+          <mxGeometry height="50" width="160" x="3250" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-189" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="payment" vertex="1">
+          <mxGeometry height="50" width="120" x="3540" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-190" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="payment_record" vertex="1">
+          <mxGeometry height="50" width="120" x="3540" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-191" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-188" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="payment_relation" vertex="1">
+          <mxGeometry height="50" width="120" x="3770" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-192" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="long_term_contract_rule" vertex="1">
+          <mxGeometry height="50" width="190" x="4000" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-199" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-200" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="long_term_contract_rule_category" vertex="1">
+          <mxGeometry height="50" width="190" x="4000" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_category" vertex="1">
+          <mxGeometry height="50" width="120" x="4035" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-202" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-195" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_reminder_rule" vertex="1">
+          <mxGeometry height="50" width="190" x="4510" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-197" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-198" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-196" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_reminder_rule_category" vertex="1">
+          <mxGeometry height="50" width="190" x="4240" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-201" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="form_definition" vertex="1">
+          <mxGeometry height="50" width="120" x="4545" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文本域ER图：" vertex="1">
+          <mxGeometry height="50" width="100" x="-140" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-204" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="450" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-223" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-227" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_cause" vertex="1">
+          <mxGeometry height="50" width="120" x="50" y="3030" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-222" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-226" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-206" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="attachment" vertex="1">
+          <mxGeometry height="50" width="120" x="250" y="3030" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-221" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-228" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-207" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_text" vertex="1">
+          <mxGeometry height="50" width="120" x="450" y="3030" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-224" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-229" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_scan" vertex="1">
+          <mxGeometry height="50" width="120" x="660" y="3030" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-225" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-230" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-209" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_archive_attachment" vertex="1">
+          <mxGeometry height="50" width="170" x="880" y="3030" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="450" y="3210" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-215" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.358;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-211" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_conversion" vertex="1">
+          <mxGeometry height="50" width="120" x="310" y="3380" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-213" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.617;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-212" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_history_info" vertex="1">
+          <mxGeometry height="50" width="120" x="590" y="3380" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-216" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="附件" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="3090" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-217" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="其他附件" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="3090" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-218" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="主文件" vertex="1">
+          <mxGeometry height="30" width="70" x="440" y="3090" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-219" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="扫描件" vertex="1">
+          <mxGeometry height="30" width="70" x="650" y="3090" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="归档附件" vertex="1">
+          <mxGeometry height="30" width="70" x="870" y="3090" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="智能化域ER图：" vertex="1">
+          <mxGeometry height="50" width="100" x="1380" y="2610" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-239" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="examined_risky_contract" vertex="1">
+          <mxGeometry height="50" width="150" x="1720" y="2940" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-240" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-235" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-241" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-235" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-242" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-235" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-235" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="examine_summary" vertex="1">
+          <mxGeometry height="50" width="150" x="1720" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_ocr_examine" vertex="1">
+          <mxGeometry height="50" width="150" x="1510" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-237" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_renewal_examine" vertex="1">
+          <mxGeometry height="50" width="150" x="1720" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_anti_date_examine" vertex="1">
+          <mxGeometry height="50" width="160" x="1950" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-243" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="2250" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-244" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_assembly" vertex="1">
+          <mxGeometry height="50" width="120" x="2110" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-246" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-261" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-245" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="smart_audit_record" vertex="1">
+          <mxGeometry height="50" width="120" x="2250" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-247" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-234" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.308;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-249" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-248" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_ai_record" vertex="1">
+          <mxGeometry height="50" width="120" x="2250" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-252" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-251" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-251" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ocr_compare" vertex="1">
+          <mxGeometry height="50" width="120" x="1970" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-253" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-251" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.301;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-258" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-254" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ocr_view" vertex="1">
+          <mxGeometry height="50" width="120" x="1970" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-256" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-257" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-255" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-255" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ocr_difference_card" vertex="1">
+          <mxGeometry height="50" width="120" x="1750" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-260" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="2510" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-263" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="6MdqNBblkCagHRNA4f-z-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-264" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-262" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_smart_extract_record" vertex="1">
+          <mxGeometry height="50" width="190" x="2475" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-266" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-267" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-265" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-265" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_smart_extract_field_operation" vertex="1">
+          <mxGeometry height="50" width="255" x="2442.5" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-270" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-268" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-268" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_smart_extract_field_op_history" vertex="1">
+          <mxGeometry height="50" width="255" x="2442.5" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-271" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-269" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2370" y="3160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-269" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="smart_extract_attribute_acceptance_record" vertex="1">
+          <mxGeometry height="50" width="255" x="2442.5" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-276" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-272" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="smart_audit_checkpoint_category" vertex="1">
+          <mxGeometry height="50" width="200" x="2255" y="2750" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-273" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="smart_audit_checkpoint" vertex="1">
+          <mxGeometry height="50" width="150" x="2280" y="2850" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-274" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract_category" vertex="1">
+          <mxGeometry height="50" width="120" x="2560" y="2750" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-275" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-277" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="电子签中台：" vertex="1">
+          <mxGeometry height="50" width="100" x="-210" y="3800" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-283" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-284" connectable="0" parent="6MdqNBblkCagHRNA4f-z-283" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="document_id" vertex="1">
+          <mxGeometry relative="1" x="0.4407" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-285" connectable="0" parent="6MdqNBblkCagHRNA4f-z-283" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="contract_no" vertex="1">
+          <mxGeometry relative="1" x="-0.4296" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-287" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-278" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="contract" vertex="1">
+          <mxGeometry height="50" width="120" x="60" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-281" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-282" connectable="0" parent="6MdqNBblkCagHRNA4f-z-281" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="business_id" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="contract_sign" vertex="1">
+          <mxGeometry height="50" width="120" x="60" y="3920" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="contract_base" vertex="1">
+          <mxGeometry height="50" width="120" x="60" y="3800" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="system_tenant_config" vertex="1">
+          <mxGeometry height="50" width="130" x="290" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-289" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-292" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-293" connectable="0" parent="6MdqNBblkCagHRNA4f-z-292" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="legal_entity" vertex="1">
+          <mxGeometry relative="1" x="0.5506" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-294" connectable="0" parent="6MdqNBblkCagHRNA4f-z-292" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="subject_code" vertex="1">
+          <mxGeometry relative="1" x="-0.6139" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-288" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="authorize_info" vertex="1">
+          <mxGeometry height="50" width="130" x="510" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-295" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-296" connectable="0" parent="6MdqNBblkCagHRNA4f-z-295" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="legal_entity" vertex="1">
+          <mxGeometry relative="1" x="0.5825" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-297" connectable="0" parent="6MdqNBblkCagHRNA4f-z-295" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="subject_id" vertex="1">
+          <mxGeometry relative="1" x="-0.8316" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-298" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="4105.166666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-299" connectable="0" parent="6MdqNBblkCagHRNA4f-z-298" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="seal_id" vertex="1">
+          <mxGeometry relative="1" x="-0.2429" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-290" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="seal_auth_config" vertex="1">
+          <mxGeometry height="50" width="130" x="715" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-291" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="mdm_legal_entithy" vertex="1">
+          <mxGeometry height="50" width="130" x="510" y="3910" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="sign_process_error" vertex="1">
+          <mxGeometry height="50" width="120" x="-20" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-303" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-304" connectable="0" parent="6MdqNBblkCagHRNA4f-z-303" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="custom_biz_num" vertex="1">
+          <mxGeometry relative="1" x="-0.2214" y="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="third_callback_biz_log" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-302" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="biz_sign_callback_info" vertex="1">
+          <mxGeometry height="50" width="130" x="430" y="4270" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-305" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.461;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-306" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.579;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-307" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.676;entryY=1.07;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-278">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="4190" />
+              <mxPoint x="141" y="4190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-308" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="6MdqNBblkCagHRNA4f-z-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-309" connectable="0" parent="6MdqNBblkCagHRNA4f-z-308" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="business_id" vertex="1">
+          <mxGeometry relative="1" x="-0.5132" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-310" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="20" y="4400" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-313" edge="1" parent="1" source="6MdqNBblkCagHRNA4f-z-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6MdqNBblkCagHRNA4f-z-310">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-314" connectable="0" parent="6MdqNBblkCagHRNA4f-z-313" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="file_id" vertex="1">
+          <mxGeometry relative="1" x="0.1433" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-311" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="platform_file_info" vertex="1">
+          <mxGeometry height="50" width="120" x="270" y="4400" as="geometry" />
+        </mxCell>
+        <mxCell id="6MdqNBblkCagHRNA4f-z-312" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="platform_log_info" vertex="1">
+          <mxGeometry height="50" width="120" x="491" y="4400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
